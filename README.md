@@ -2,3 +2,4 @@
 * Init
 * Add 와 Commit
 * test
+* diff명령어
